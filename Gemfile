@@ -4,3 +4,5 @@ gem 'asciidoctor'
 gem 'asciidoctor-epub3'
 gem 'asciidoctor-pdf'
 gem 'rouge'
+gem "matrix"
+gem "ostruct"
